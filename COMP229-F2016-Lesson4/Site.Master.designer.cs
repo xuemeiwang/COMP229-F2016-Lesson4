@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Lesson4
-{
-
-
-    public partial class Site
-    {
-
+namespace COMP229_F2016_Lesson4 {
+    
+    
+    public partial class Site {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+        
         /// <summary>
         /// home control.
         /// </summary>
@@ -31,25 +29,43 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl home;
-
+        
         /// <summary>
-        /// projects control.
+        /// courses control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl projects;
-
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl courses;
+        
         /// <summary>
-        /// services control.
+        /// students control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
-
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl students;
+        
+        /// <summary>
+        /// departments control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl departments;
+        
+        /// <summary>
+        /// enrollments control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl enrollments;
+        
         /// <summary>
         /// about control.
         /// </summary>
@@ -58,7 +74,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl about;
-
+        
         /// <summary>
         /// contact control.
         /// </summary>
@@ -67,7 +83,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl contact;
-
+        
         /// <summary>
         /// MainContent control.
         /// </summary>
